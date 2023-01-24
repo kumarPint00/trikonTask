@@ -1,0 +1,27 @@
+{
+  "name": "trikontask",
+  "version": "1.0.0",
+  "description": "NFT marketplace with custom token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarPint00/trikonTask.git"
+  },
+  "author": "Kumarpint00",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarPint00/trikonTask/issues"
+  },
+  "homepage": "https://github.com/kumarPint00/trikonTask#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.1",
+    "@remix-project/remixd": "^0.6.11",
+    "hardhat": "^2.12.6"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2"
+  }
+}
